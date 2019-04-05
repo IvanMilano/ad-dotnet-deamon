@@ -3,3 +3,5 @@ Code demostrating authentication with Azure AD interactively and non-interactive
 
 ### Overview
 The code is a fork of the repo: https://github.com/Azure-Samples/active-directory-dotnet-daemon, but modified with examples demostrating different ways of obtaining an azure ad user token to authenticate, non-interactively.
+
+Changes er mainly done in TodoListDaemon/App.config and TodoListDaemon/Program.cs files.
